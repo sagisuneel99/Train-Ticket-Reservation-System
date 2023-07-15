@@ -81,7 +81,7 @@
 		<repository>
 			<id>nuxus</id>
 			<name>irtc-nuxus-release</name>
-			<url>http://54.162.110.42:8081/repository/irtc-snapshot/</url>
+			<url>http://54.162.110.42:8081/repository/irtc-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>

@@ -79,7 +79,7 @@
 	</dependencies>
 	<distributionManagement>
 		<repository>
-			<id>nuxus</id>
+			<id>nexus</id>
 			<name>irtc-nuxus-release</name>
 			<url>http://54.162.110.42:8081/repository/irtc-release/</url>
 		</repository>

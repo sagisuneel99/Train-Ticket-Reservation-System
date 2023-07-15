@@ -86,7 +86,7 @@
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>irtc-nexus-snapshot</name>
-			<url>http://3.86.245.78:8081/repository/flipkart-snapshot/</url>
+			<url>http://3.86.245.78:8081/repository/irtc-snapshot/</url>
 		</snapshotRepository>
 	</ditributionManagement>
 

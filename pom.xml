@@ -77,7 +77,7 @@
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
-	<ditributionManagement>
+	<distributionManagement>
 		<repository>
 			<id>nuxus</id>
 			<name>irtc-nuxus-release</name>
@@ -88,6 +88,6 @@
 			<name>irtc-nexus-snapshot</name>
 			<url>http://3.86.245.78:8081/repository/irtc-snapshot/</url>
 		</snapshotRepository>
-	</ditributionManagement>
+	</distributionManagement>
 
 </project>
